@@ -1,6 +1,6 @@
 # MentalHealthChatbot
 
-Un chatbot d'intelligence artificielle conçu pour fournir un soutien émotionnel et une assistance aux personnes aux prises avec des problèmes de santé mentale.
+Un chatbot d'intelligence artificielle nommé **Hori** conçu pour fournir un soutien émotionnel et une assistance aux personnes aux prises avec des problèmes de santé mentale.
 
 ## 📝 Description
 
@@ -9,16 +9,12 @@ MentalHealthChatbot est une application web alimentée par l'IA qui offre un sou
 ## ✨ Caractéristiques
 
 - **Conversation en temps réel** avec réponses basées sur le NLP
-- **Analyse des expressions faciales** pour une meilleure détection des émotions
-- **Téléchargement d'images** et historique des sessions
-- **Support multilingue**
-- **Accès aux ressources** en santé mentale
 
 ## 🛠️ Technologies utilisées
 
-- **Langages** : Python, HTML/CSS
-- **Frameworks** : Flask, TensorFlow, Keras
-- **Bibliothèques** : NLTK, OpenCV
+- **Langages** : Python, HTML/CSS, Typescript
+- **Frameworks** : Flask, Angular
+- **Bibliothèques** : [À completer]
 
 ## 🚀 Installation
 
@@ -51,7 +47,7 @@ Après avoir lancé l'application, ouvrez votre navigateur et accédez à `http:
 
 ## 🤝 Contribution
 
-Les contributions sont les bienvenues ! Veuillez consulter le fichier `CONTRIBUTING.md` pour les directives de contribution.
+_Nous n'acceptons pas les collaboration_
 
 ## 📜 Licence
 
@@ -63,8 +59,8 @@ Pour plus d'informations sur l'utilisation, le développement et la personnalisa
 
 ## 📞 Contact
 
-Si vous avez des questions ou des suggestions, n'hésitez pas à ouvrir une issue ou à nous contacter directement à `votre-email@example.com`.
+_Nous n'avons pas de contact_
 
 ## 🙏 Remerciements
 
-Nous tenons à remercier tous les contributeurs et les ressources open source qui ont rendu ce projet possible.
+Nous tenons à remercier notre tuteur et les ressources open source qui ont rendu ce projet possible.
