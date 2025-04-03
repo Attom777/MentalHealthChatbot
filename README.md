@@ -14,44 +14,15 @@ MentalHealthChatbot est une application web alimentée par l'IA qui offre un sou
 
 - **Langages** : Python, HTML/CSS, Typescript
 - **Frameworks** : Flask, Angular
-- **Bibliothèques** : [À completer]
 
-## 🚀 Installation
+## 🚀 Démo
 
-1. **Clonez ce dépôt** :
-```bash
-git clone https://github.com/votre-nom-utilisateur/MentalHealthChatbot.git
-cd MentalHealthChatbot
-```
+_Actuellement indisponible..._
 
-2. **Créez et activez un environnement virtuel** :
-```bash
-python -m venv venv
-source venv/bin/activate # Sur Linux
-.\venv\Scripts\activate.bat # Sur Windows
-```
-
-3. **Installez les dépendances** :
-```bash
-pip install -r requirements.txt
-```
-
-4. **Lancez l'application** :
-```bash
-flask --app app --debug run
-```
-
-## 💡 Utilisation
-
-Après avoir lancé l'application, ouvrez votre navigateur et accédez à `http://localhost:5000`. Vous pouvez commencer à interagir avec le chatbot en tapant vos messages dans la zone de saisie.
 
 ## 🤝 Contribution
 
 _Nous n'acceptons pas les collaboration_
-
-## 📜 Licence
-
-Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
 
 ## 📚 Wiki
 
@@ -60,6 +31,10 @@ Pour plus d'informations sur l'utilisation, le développement et la personnalisa
 ## 📞 Contact
 
 _Nous n'avons pas de contact_
+
+## 📜 Licence
+
+Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
 
 ## 🙏 Remerciements
 
